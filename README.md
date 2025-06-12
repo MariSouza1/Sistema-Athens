@@ -34,11 +34,10 @@ Um sistema inteligente de gestão de estudos que une planejamento, foco e evolu�
 
 ## 📁 Organização do Repositório
 Athens/
-│
-├── frontend/ → React + Tailwind
-├── backend/ → FastAPI
-├── docs/ → Documentação geral
-└── README.md → Este arquivo
+├── frontend/   # Interface do usuário (React + Tailwind)
+├── backend/    # API e lógica de negócio (FastAPI)
+├── docs/       # Documentação técnica, requisitos e cronograma
+└── README.md   # Apresentação do repositório
 
 
 ---
