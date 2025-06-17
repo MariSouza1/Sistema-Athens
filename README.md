@@ -72,8 +72,8 @@ Em breve.
 
 ## 🧠 Roadmap de Desenvolvimento
 
-- [ ] Documento de abertura do projeto
-- [ ] Modelagem do banco no MySQL Workbench
+- [x] Documento de abertura do projeto
+- [x] Modelagem do banco no MySQL Workbench
 - [ ] Setup do ambiente front-end com React
 - [ ] Setup do back-end com FastAPI
 - [ ] Integração front x back (REST)
